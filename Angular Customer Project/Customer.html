@@ -1,0 +1,22 @@
+
+
+<html>
+    <head>
+        <title>My Customer Page</title>
+    </head>
+    <script src="angular.js"/>
+    <script>
+        function Customer($scope) {
+            $scope.customerName = "Madhav";
+            $scope.customerCode = "2002";
+        }
+       </script>
+    <body ng-app="MyApp">
+        <div id="customerScreen" ng-controller="Customer">
+            Customer Name:- <input ng-model="customerName" type="text" id="customerName" value=""/>
+            Customer Code:- <input ng-model="customerCode" type="text" id="customerCode" value=""/>
+            <div id="customerName">{{customerName}}</div>
+            <div id="customerCode">{{customerCode}}</div>
+    </div>
+    </body>
+</html>
