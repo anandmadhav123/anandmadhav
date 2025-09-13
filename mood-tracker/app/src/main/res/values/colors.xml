@@ -1,0 +1,9 @@
+<resources>
+	<color name="md_primary">#6750A4</color>
+	<color name="md_on_primary">#FFFFFF</color>
+	<color name="md_secondary">#625B71</color>
+	<color name="md_background">#FFFBFE</color>
+	<color name="md_on_background">#1C1B1F</color>
+	<color name="md_surface">#FFFBFE</color>
+	<color name="md_on_surface">#1C1B1F</color>
+</resources>
