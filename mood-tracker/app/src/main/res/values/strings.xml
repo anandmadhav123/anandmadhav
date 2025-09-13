@@ -1,0 +1,9 @@
+<resources>
+	<string name="app_name">Mood Tracker</string>
+	<string name="nav_today">Today</string>
+	<string name="nav_trends">Trends</string>
+	<string name="mood_prompt">How are you feeling today?</string>
+	<string name="save">Save</string>
+	<string name="this_week">This week</string>
+	<string name="this_month">This month</string>
+</resources>
